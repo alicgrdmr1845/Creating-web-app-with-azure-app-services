@@ -11,7 +11,6 @@
 
 4- npm start --- This will start your created web application in your local 
 
-![3](https://user-images.githubusercontent.com/95598307/224438240-bc87f0b0-69ea-4e81-a58c-5f2043f79dfa.png)
 
 5- Install Azure app services extention to your visual studio code
 
@@ -20,3 +19,7 @@
 
 ![3](https://user-images.githubusercontent.com/95598307/224438281-3b63264c-fa0b-4e86-a12c-12872ac5cd4f.png)
 
+7- You can go and view the web app you have created with using the url in Azure app service
+
+
+![2](https://user-images.githubusercontent.com/95598307/224438514-a55d8b3f-8988-48c5-8e15-e3ac6b5fd8ac.png)
