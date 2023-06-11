@@ -1,4 +1,4 @@
-#Creating Web Application With Azure App Services Using Node.js
+# Creating Web Application With Azure App Services Using Node.js
 
 1-There are many ways to create Web Aplication .We used azure app services to have automatic environment settings, you can create  web app from azure app services with using portal , terraform or ARM template deployment. I used Azure portal here.
 
